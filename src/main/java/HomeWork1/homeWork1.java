@@ -25,7 +25,7 @@ public class homeWork1 {
         }
     }
 
-    //Задание №6
+    //Задание № 6
     static boolean task6(int x) {
         return x <= 0;
     }
