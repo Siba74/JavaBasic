@@ -16,9 +16,6 @@ public class homeWork1 {
     }
 
     static void task5(int value) {
-        // если параметр велью больше нуля вывести Положительное
-        // иначе если параметр равен нулю вывести Ноль
-        // иначе вывести Отрицательное
         if (value > 0) {
             System.out.println("Положительное");
         } else if (value == 0) {
